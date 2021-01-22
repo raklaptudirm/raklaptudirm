@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### I am Rak Laptudirm
+### - 🌱 I’m currently learning Javascript
+### Woooo!
 
 <!--
 **raklaptudirm/raklaptudirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
