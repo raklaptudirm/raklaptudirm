@@ -7,9 +7,12 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" alt="Rak Laptudirm's GitHub Stats">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF" alt="Rak Laptudirm's Top Languages">
+
 </div>
 
 ## Skills:
