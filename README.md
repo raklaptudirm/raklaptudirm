@@ -7,7 +7,7 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 [Krypt](https://github.com/raklaptudirm/Krypt), a terminal password manager.
 
-[Precise.js](https://github.com/raklaptudirm/Precise), a Javascript library for precise calculations.
+[Precise.js](https://github.com/raklaptudirm/Precise.js), a Javascript library for precise calculations.
 
 
 
