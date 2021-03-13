@@ -8,7 +8,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 ## Skills:
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
