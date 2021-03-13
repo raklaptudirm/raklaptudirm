@@ -1,6 +1,14 @@
 ## Hi there 👋
-I am Rak Laptudirm, a class IX student
-I am working on a programming language, [Mkode!](https://github.com/MkodeLang)
+I am Rak Laptudirm.......
+
+[Mkode](https://github.com/MkodeLang), A Programming Language.
+
+A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equation.
+
+[Krypt](https://github.com/raklaptudirm/Krypt), a terminal password manager.
+
+[Precise.js](https://github.com/raklaptudirm/Precise), a Javascript library for precise calculations.
+
 
 
 - My Stats:
