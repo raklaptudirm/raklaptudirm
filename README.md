@@ -5,15 +5,13 @@
 ### - ⚡ Fun fact: I am working on a programming language, [Mkode!](https://github.com/MkodeLang)
 
 
+- My Stats:
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" alt="Rak Laptudirm's GitHub Stats">
-  
-  <br>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF" alt="Rak Laptudirm's Top Languages">
+![Rak Laptudirm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF)
 
-</div>
+- My Top Languages
+
+![Rak Laptudirm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&hide_border=true&bg_color=000&text_color=FFF)
 
 ## Skills:
 
