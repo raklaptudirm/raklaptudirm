@@ -1,5 +1,5 @@
-## Hi there 👋
-I am Rak Laptudirm.......
+## `Hello World` 👋
+Rak Laptudirm.......
 
 [Mkode](https://github.com/MkodeLang), A Programming Language.
 
@@ -11,11 +11,11 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 
 
-- My Stats:
+- Stats:
 
 ![Rak Laptudirm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF)
 
-- My Top Languages
+- Top Languages
 
 ![Rak Laptudirm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&hide_border=true&bg_color=000&text_color=FFF)
 
