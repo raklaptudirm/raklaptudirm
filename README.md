@@ -21,7 +21,7 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 - WakaTime Stats:
 
-![Rak Laptudirm's akaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF)
+![Rak Laptudirm's akaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF&hide_border=true)
 
 ## Skills:
 
