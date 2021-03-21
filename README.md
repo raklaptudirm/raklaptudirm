@@ -19,6 +19,10 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 ![Rak Laptudirm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&hide_border=true&bg_color=000&text_color=FFF)
 
+- WakaTime Stats:
+
+![Rak Laptudirm's akaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF)
+
 ## Skills:
 
 - [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
