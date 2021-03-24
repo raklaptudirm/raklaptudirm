@@ -29,6 +29,6 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 - [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
 - [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
 - [![C++ (Not a Master)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/doc/tutorial/)
-- [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<!--- [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) -->
 - [![node](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 - [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)](https://www.json.org/json-en.html)
