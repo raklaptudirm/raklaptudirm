@@ -1,3 +1,4 @@
+![Trophies](https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai)
 ## `Hello World` 👋
 Rak Laptudirm.......
 
