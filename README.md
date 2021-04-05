@@ -35,4 +35,4 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 <!--- [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) -->
 ## Contribution Streak:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true)](https://git.io/streak-stats)
