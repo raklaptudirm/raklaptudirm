@@ -12,7 +12,7 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 
 
-- Stats:
+## Stats:
 
 [![Rak Laptudirm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
