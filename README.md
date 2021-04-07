@@ -36,3 +36,6 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 <!--- [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) -->
 ## Contribution Streak:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true)](https://git.io/streak-stats)
+
+## Spotify Tracks:
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://github.com/JeffreyCA/spotify-recently-played-readme)
