@@ -39,3 +39,7 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 
 ## Spotify Tracks:
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=m509p4kyvkrsnk7t45m9odi37)](https://github.com/JeffreyCA/spotify-recently-played-readme)
+
+<hr>
+
+The widgets on my `README.md` are works of many contributers. Click on the widgets to use them yourself.
