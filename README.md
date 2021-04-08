@@ -38,7 +38,7 @@ A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equat
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true)](https://git.io/streak-stats)
 
 ## Spotify Tracks:
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=m509p4kyvkrsnk7t45m9odi37)](https://github.com/JeffreyCA/spotify-recently-played-readme)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=m509p4kyvkrsnk7t45m9odi37&count=1)](https://github.com/JeffreyCA/spotify-recently-played-readme)
 
 <hr>
 
