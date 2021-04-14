@@ -84,4 +84,4 @@ Rak Laptudirm.......
 
 <hr>
 
-<h4 align="center"> The widgets on my <code> README.md </code> are works of many contributers. Click on the widgets to use them yourself. </h4>
+<h4 align="center"> The widgets on my <code>README.md</code> are works of many contributers. Click on the widgets to use them yourself. </h4>
