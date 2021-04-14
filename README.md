@@ -1,6 +1,10 @@
 <h1 align="center"><code>Hello World</code> 👋</h1>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=7&no-frame=true">
+  </a>
+</p>
 
 Rak Laptudirm.......
 
@@ -27,9 +31,11 @@ Rak Laptudirm.......
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF&hide_border=true">
   </a>
-  <h1 align="center"> 🔥 Contribution Streak: </h1>
+</p>
+<h1 align="center"> 🔥 Contribution Streak: </h1>
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true" align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true">
   </a>
   <br>
 </p>
@@ -78,4 +84,4 @@ Rak Laptudirm.......
 
 <hr>
 
-The widgets on my `README.md` are works of many contributers. Click on the widgets to use them yourself.
+<h4 align="center"> The widgets on my <code> README.md </code> are works of many contributers. Click on the widgets to use them yourself. </h4>
