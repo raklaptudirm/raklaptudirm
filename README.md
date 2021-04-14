@@ -14,38 +14,24 @@ Rak Laptudirm.......
 
 
 
-<h1 align="center"> Stats: </h1>
+<h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" " width="420">
+    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" width="420">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&hide_border=true&bg_color=000&text_color=FFF"  height="165">
   </a>
-</p>
-
-<h1 align="center"> WakaTime Stats: </h1>
-
-<p align="center">
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF&hide_border=true">
   </a>
-</p>
-
-<h1 align="center"> Contribution Streak: </h1>
-
-<p align="center">
+  <h1 align="center"> 🔥 Contribution Streak: </h1>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true" align="center">
   </a>
-</p>
-
-<h1 align="center"> Spotify Tracks: </h1>
-<p align="center">
-  <a href="https://github.com/JeffreyCA/spotify-recently-played-readme">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m509p4kyvkrsnk7t45m9odi37&count=1">
-  </a>
+  <br>
 </p>
 
 <h1 align="center"> Skills: </h1>
