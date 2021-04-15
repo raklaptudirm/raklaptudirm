@@ -6,17 +6,61 @@
   </a>
 </p>
 
-Rak Laptudirm.......
-
-🖥️ [Mkode](https://github.com/MkodeLang), A Programming Language.
-
-🧊 A [3dEngine](https://github.com/raklaptudirm/3dEngine) built with a custom equation.
-
-🔑 [Krypt](https://github.com/raklaptudirm/Krypt), a terminal password manager.
-
-🧮 [Precise.js](https://github.com/raklaptudirm/Precise.js), a Javascript library for precise calculations.
-
-
+```js
+const user = {
+  name: "Rak Laptudirm",
+  
+  age: 15,
+  
+  hobbies: [
+    "programming",
+    "cubing",
+    "singing",
+    "reading",
+    "gaining knowledge",
+  ],
+  
+  semicolons: false,
+  line-endings: "crlf",
+  
+  knowledge: [
+    "Black Holes",
+    "Algorithms",
+    "Ecmascript",
+    "Numbers",
+    "Tic-Tac-Toe",
+  ],
+  
+  hero: "Daniel Shiffman",
+  
+  projects: [
+    "Krypt",
+    "MKode",
+    "3dEngine",
+    "Precise.js",
+  ],
+  
+  languages: [
+    "Ecmascript",
+    "Processing",
+    "C++",
+    "Java",
+  ],
+  
+  editors: [
+    "Sublime Text",
+    "VS Code",
+  ],
+  
+  codeStyle: "Prettier",
+  
+  variables: "camelCase",
+  
+  newLanguage: function () {
+    console.log("Hello, World!")
+  },
+}
+```
 
 <h1 align="center"> 📊 Stats: </h1>
 
