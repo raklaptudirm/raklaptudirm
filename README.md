@@ -1,7 +1,7 @@
 <h1 align="center"><code>Hello World</code> 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg" width="500">
+  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
 </p>
 
 <p align="center">
