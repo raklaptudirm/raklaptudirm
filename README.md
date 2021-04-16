@@ -31,7 +31,8 @@ const user = {
   },
   
   hereIsYourFood: function (food) {
-    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", "Prawn" ]
+    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", 
+    "Prawn" ]
     const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
     
     if (good.includes(food)) {
@@ -41,7 +42,7 @@ const user = {
     } else {
       console.log("No, thanks.")
     }
-  }
+  },
 }
 ```
 </h3>
