@@ -6,51 +6,28 @@
   </a>
 </p>
 
+<h3>
+  
 ```js
 const user = {
   name: "Rak Laptudirm",
   
   age: 15,
   
-  hobbies: [
-    "programming",
-    "cubing",
-    "singing",
-    "reading",
-    "gaining knowledge",
-  ],
+  hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   
   semicolons: false,
   line-endings: "crlf",
   
-  knowledge: [
-    "Black Holes",
-    "Algorithms",
-    "Ecmascript",
-    "Numbers",
-    "Tic-Tac-Toe",
-  ],
+  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
   
   hero: "Daniel Shiffman",
   
-  projects: [
-    "Krypt",
-    "MKode",
-    "3dEngine",
-    "Precise.js",
-  ],
+  projects: [ "Krypt", "MKode", "3dEngine", "Precise.js", ],
   
-  languages: [
-    "Ecmascript",
-    "Processing",
-    "C++",
-    "Java",
-  ],
+  languages: [ "Ecmascript", "Processing", "C++", "Java", ],
   
-  editors: [
-    "Sublime Text",
-    "VS Code",
-  ],
+  editors: [ "Sublime Text", "VS Code", ],
   
   codeStyle: "Prettier",
   
@@ -61,6 +38,7 @@ const user = {
   },
 }
 ```
+</h3>
 
 <h1 align="center"> 📊 Stats: </h1>
 
