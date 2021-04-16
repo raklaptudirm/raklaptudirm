@@ -1,6 +1,10 @@
 <h1 align="center"><code>Hello World</code> 👋</h1>
 
 <p align="center">
+  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=7&no-frame=true">
   </a>
