@@ -50,7 +50,7 @@ const user = {
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" width="420">
+    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&hide_border=true&bg_color=000&text_color=FFF"  height="165">
