@@ -11,31 +11,37 @@
 ```js
 const user = {
   name: "Rak Laptudirm",
-  
   age: 15,
   
-  hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
-  
   semicolons: false,
-  line-endings: "crlf",
-  
-  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
+  line_endings: "crlf",
+  codeStyle: "Prettier",
+  variables: "camelCase",
   
   hero: "Daniel Shiffman",
   
-  projects: [ "Krypt", "MKode", "3dEngine", "Precise.js", ],
-  
+  hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
+  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
+  projects: [ "Krypt", "MKode", "3dEngine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
-  
   editors: [ "Sublime Text", "VS Code", ],
-  
-  codeStyle: "Prettier",
-  
-  variables: "camelCase",
   
   newLanguage: function () {
     console.log("Hello, World!")
   },
+  
+  hereIsYourFood: function (food) {
+    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", "Prawn" ]
+    const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
+    
+    if (good.includes(food)) {
+      console.log("Chomp Chomp Gulp... Yum!")
+    } else if (acceptable.includes(food)) {
+      console.log("Chew Chew Gulp.")
+    } else {
+      console.log("No, thanks.")
+    }
+  }
 }
 ```
 </h3>
