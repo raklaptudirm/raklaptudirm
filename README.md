@@ -16,6 +16,7 @@
 const user = {
   name: "Rak Laptudirm",
   age: 15,
+  pronouns: [ "he", "him" ],
   
   semicolons: false,
   line_endings: "crlf",
