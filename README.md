@@ -27,7 +27,7 @@ const user = {
   
   hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  projects: [ "Krypt", "MKode", "3dEngine", "Precise.js", ],  
+  projects: [ "Krypt", "MKode", "3d-Engine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
   editors: [ "Sublime Text", "VS Code", ],
   
