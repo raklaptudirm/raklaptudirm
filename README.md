@@ -22,6 +22,7 @@ const user = {
   line_endings: "crlf",
   codeStyle: "Prettier",
   variables: "camelCase",
+  trailing_comma: true,
   
   hero: "Daniel Shiffman",
   
