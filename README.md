@@ -1,4 +1,8 @@
-<h1 align="center"><code>Hello, World!</code> 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Rak+Laptudirm!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
