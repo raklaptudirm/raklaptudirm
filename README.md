@@ -72,12 +72,15 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF&hide_border=true">
   </a>
 </p>
-<h1 align="center"> 🔥 Contribution Streak: </h1>
+<h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true">
   </a>
   <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark">
+  </a>
 </p>
 
 <h1 align="center"> Skills & Tools: </h1>
