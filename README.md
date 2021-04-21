@@ -62,24 +62,24 @@ const user = {
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&hide_border=true&bg_color=000&text_color=FFF" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&hide_border=true&bg_color=000&text_color=FFF"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF"  height="165">
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=000&text_color=FFF&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF">
   </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=000&hide_border=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=0d1117">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark">
   </a>
 </p>
 
