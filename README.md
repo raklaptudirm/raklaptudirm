@@ -126,4 +126,6 @@ const user = {
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many contributers. Click on the widgets to use them yourself. </h4>
 
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a>
