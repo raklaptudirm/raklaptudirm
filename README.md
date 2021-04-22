@@ -69,7 +69,7 @@ const user = {
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF">
   </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
