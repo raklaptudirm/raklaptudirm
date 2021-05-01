@@ -20,8 +20,8 @@
 const user = {
   name: "Rak Laptudirm",
   age: 15,
-  pronouns: [ "he", "him" ],
-  theme: [ "dark", "monokai" ],
+  pronouns: [ "he", "him", "them", ],
+  theme: [ "dark", "monokai", ],
   
   semicolons: false,
   line_endings: "crlf",
@@ -43,7 +43,7 @@ const user = {
   
   hereIsYourFood: function (food) {
     const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", 
-    "Prawn" ]
+    "Prawn", ]
     const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
     
     if (good.includes(food)) {
