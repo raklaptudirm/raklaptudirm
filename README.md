@@ -22,6 +22,7 @@ const user = {
   age: 15,
   pronouns: [ "he", "him", "them", ],
   theme: [ "dark", "monokai", ],
+  color: 0x0099ff,
   
   semicolons: false,
   line_endings: "crlf",
@@ -33,7 +34,7 @@ const user = {
   
   hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  projects: [ "Krypt", "MKode", "3d-Engine", "Precise.js", ],  
+  projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
   editors: [ "Sublime Text", "VS Code", ],
   
