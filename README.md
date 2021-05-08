@@ -85,7 +85,7 @@ const user = {
 </p>
 <h1 align="center"> Contributed to: </h1>
 <p align="center">
-  <a href"https://github.com/antfu/1990-script">
+  <a href="https://github.com/antfu/1990-script">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antfu&repo=1990-script&bg_color=0d1117&text_color=FFF">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
