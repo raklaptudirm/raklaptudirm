@@ -59,6 +59,16 @@ const user = {
 ```
 </h3>
 
+<h1 align="center"> Working on: </h1>
+<p align="center">
+  <a href="https://github.com/raklaptudirm/mvcs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=mvcs&bg_color=0d1117&text_color=FFF">
+  </a>
+  <a href="https://github.com/raklaptudirm/Krypt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Krypt&bg_color=0d1117&text_color=FFF">
+  </a>
+</p>
+
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
@@ -83,6 +93,7 @@ const user = {
     <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark">
   </a>
 </p>
+
 <h1 align="center"> Contributed to: </h1>
 <p align="center">
   <a href="https://github.com/antfu/1990-script">
