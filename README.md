@@ -110,14 +110,20 @@ const user = {
 <h1 align="center"> <code>Achivements</code>: </h1>
 <p align="center">
   <h3>
-    <code>
-      Creating the 3d to 2d graph formula. <a href="https://github.com/raklaptudirm/3dEngine"> [here] </a>
-    </code>
-    <br>
-    <br>
-    <code>
-      Developing a complete expression solver from scratch. <a href="https://github.com/raklaptudirm/MkodeLang"> [here] </a>
-    </code>
+    <ul>
+      <li>
+        <code>
+          Creating the 3d to 2d graph formula. <a href="https://github.com/raklaptudirm/3dEngine"> [here] </a>
+        </code>
+      </li>
+      <br>
+      <br>
+      <li>
+        <code>
+          Developing a complete expression solver from scratch. <a href="https://github.com/raklaptudirm/MkodeLang"> [here] </a>
+        </code>
+      </li>
+    </ul>
   </h3>
 </p>
     
