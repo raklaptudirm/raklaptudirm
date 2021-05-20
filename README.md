@@ -36,7 +36,7 @@ const user = {
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
   projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
-  editors: [ "Sublime Text", "VS Code", ],
+  editors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
   
   newLanguage: function () {
     console.log("Hello, World!")
