@@ -29,13 +29,13 @@ const user = {
   codeStyle: "Prettier",
   variables: "camelCase",
   
-  hero: "Daniel Shiffman",
-  
   myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
   _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
   myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
+  
+  thank_you: "Daniel Shiffman",
   
   newLanguage: function () {
     console.log("Hello, World!")
