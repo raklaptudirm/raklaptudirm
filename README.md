@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=7&no-frame=true&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
 
@@ -33,9 +33,9 @@ const user = {
   
   myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  _projects:  [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
+  _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
-  myeditors:   [ "Sublime Text", "VS Code", "vim", "neovim", ],
+  myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
   
   newLanguage: function () {
     console.log("Hello, World!")
