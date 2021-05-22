@@ -18,25 +18,24 @@
   
 ```js
 const user = {
-  name: "Rak Laptudirm",
-  age: 15,
-  pronouns: [ "he", "him", "them", ],
-  theme: [ "dark", "monokai", ],
-  color: 0x0099ff,
+  user_name:   "Rak Laptudirm",
+  current_age: 15,
+  my_pronouns: [ "he", "him", "them", ],
+  fav_theme:   [ "dark", "monokai", ],
+  fav_color:   0x0099ff,
   
-  semicolons: false,
-  line_endings: "crlf",
+  semicolon: false,
+  line_ends: "crlf",
   codeStyle: "Prettier",
   variables: "camelCase",
-  trailing_comma: true,
   
   hero: "Daniel Shiffman",
   
-  hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
+  hobbies:   [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
+  projects:  [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
   languages: [ "Ecmascript", "Processing", "C++", "Java", ],
-  editors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
+  editors:   [ "Sublime Text", "VS Code", "vim", "neovim", ],
   
   newLanguage: function () {
     console.log("Hello, World!")
