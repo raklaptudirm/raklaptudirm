@@ -37,7 +37,7 @@ const user = {
   
   thank_you: "Daniel Shiffman",
   
-  newLanguage: function () {
+  learnNewLanguage: function () {
     console.log("Hello, World!")
   },
   
