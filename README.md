@@ -26,7 +26,7 @@ const user = {
   
   semicolon: false,
   line_ends: "crlf",
-  codeStyle: "Prettier",
+  codeStyle: "prettier",
   variables: "camelCase",
   
   myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
