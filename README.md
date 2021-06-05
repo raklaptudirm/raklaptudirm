@@ -19,7 +19,7 @@
 ```js
 const user = {
   user_name: "Rak Laptudirm",
-  my age_no: 15,
+  my_age_no: 15,
   _pronouns: [ "he", "him", "them", ],
   fav_theme: [ "dark", "monokai", ],
   fav_color: 0x0099ff,
