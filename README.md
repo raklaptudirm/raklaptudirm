@@ -108,28 +108,7 @@ const user = {
   <a href="https://github.com/TheAlgorithms/Javascript">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-</p>
-
-<h1 align="center"> <code>Achivements</code>: </h1>
-<p align="center">
-  <h3>
-    <ul>
-      <li>
-        <code>
-          Creating the 3d to 2d graph formula. <a href="https://github.com/raklaptudirm/3dEngine"> [here] </a>
-        </code>
-      </li>
-      <br>
-      <br>
-      <li>
-        <code>
-          Developing a complete expression solver from scratch. <a href="https://github.com/raklaptudirm/MkodeLang"> [here] </a>
-        </code>
-      </li>
-    </ul>
-  </h3>
-</p>
-    
+</p>    
 
 <h1 align="center"> Skills & Tools: </h1>
 
