@@ -61,10 +61,10 @@ const user = {
 <h1 align="center"> Working on: </h1>
 <p align="center">
   <a href="https://github.com/raklaptudirm/mvcs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=mvcs&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=brainfuck&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <a href="https://github.com/raklaptudirm/Krypt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Krypt&bg_color=0d1117&text_color=FFF&border_color=444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Quote&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <br>
   <a href="https://github.com/TheAlgorithms/Javascript">
