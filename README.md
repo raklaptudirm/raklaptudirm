@@ -60,10 +60,10 @@ const user = {
 
 <h1 align="center"> Working on: </h1>
 <p align="center">
-  <a href="https://github.com/raklaptudirm/mvcs">
+  <a href="https://github.com/raklaptudirm/brainfuck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=brainfuck&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/raklaptudirm/Krypt">
+  <a href="https://github.com/raklaptudirm/Quote">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Quote&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <br>
