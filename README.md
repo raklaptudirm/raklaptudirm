@@ -32,7 +32,8 @@ const user = {
   myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
   knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
   _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
-  languages: [ "Ecmascript", "Processing", "C++", "Java", "Go", "Rust", "Typescript", "Python", "C", ],
+  languages: [ "Ecmascript", "Processing", "C++", "Java", "Go", "Rust", "Typescript",
+    "Python", "C", ],
   myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
   
   thank_you: "Daniel Shiffman",
