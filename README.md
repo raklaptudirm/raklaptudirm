@@ -86,6 +86,9 @@ const user = {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@raklaptudirm/bf98f6a7-04b0-4a13-af33-8f1243fe0cfe.png" />
+  </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
