@@ -172,6 +172,23 @@ const user = {
   </a>
 </p>
 
+<h1 align="center"> Socials: </h1>
+  <p align="center">
+    <a href="https://twitter.com/raklaptudirm">
+      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://stackoverflow.com/users/story/14553594">
+      <img src="https://img.shields.io/badge/stack%20overflow-F58025?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
+    </a>
+    <a href="https://raklaptudirm.medium.com/">
+      <img src="https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/rak-laptudirm-09b444211/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</h1>
+
 <hr>
 
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
