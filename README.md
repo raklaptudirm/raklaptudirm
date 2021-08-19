@@ -64,8 +64,8 @@ const user = {
   <a href="https://github.com/raklaptudirm/brainfuck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=brainfuck&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://github.com/raklaptudirm/Quote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Quote&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/raklaptudirm/medit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=medit&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
   <br>
   <a href="https://github.com/TheAlgorithms/Javascript">
