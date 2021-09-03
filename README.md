@@ -1,75 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=cconsole.log(%22Hello%2C%20World!%22);%3E%20node%20index;Hello%2C%20World!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
-</p>
-
-<h3>
-  
-```js
-const user = {
-  user_name: "Rak Laptudirm",
-  my_age_no: 15,
-  _pronouns: [ "he", "him", "them", ],
-  fav_theme: [ "dark", "monokai", ],
-  fav_color: 0x0099ff,
-  
-  semicolon: false,
-  line_ends: "crlf",
-  codeStyle: "prettier",
-  variables: "camelCase",
-  
-  myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
-  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
-  languages: [ "Ecmascript", "Processing", "C++", "Java", "Go", "Rust", "Typescript",
-    "Python", "C", ],
-  myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
-  
-  thank_you: "Daniel Shiffman",
-  
-  learnNewLanguage: function () {
-    console.log("Hello, World!")
-  },
-  
-  hereIsYourFood: function (food) {
-    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", 
-    "Prawn", ]
-    const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
-    
-    if (good.includes(food)) {
-      console.log("Chomp Chomp Gulp... Yum!")
-    } else if (acceptable.includes(food)) {
-      console.log("Chew Chew Gulp.")
-    } else {
-      console.log("No, thanks.")
-    }
-  },
-}
-```
-</h3>
-
-<h1 align="center"> Working on: </h1>
-<p align="center">
-  <a href="https://github.com/raklaptudirm/brainfuck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=brainfuck&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/raklaptudirm/medit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=medit&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <br>
-  <a href="https://github.com/TheAlgorithms/Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 
@@ -86,9 +23,6 @@ const user = {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@raklaptudirm/bf98f6a7-04b0-4a13-af33-8f1243fe0cfe.png" />
-  </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
@@ -101,7 +35,7 @@ const user = {
   </a>
 </p>
 
-<h1 align="center"> Contributed to: </h1>
+<h1 align="center"> ✨ Contributed to: </h1>
 <p align="center">
   <a href="https://github.com/antfu/1990-script">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antfu&repo=1990-script&bg_color=0d1117&text_color=FFF&border_color=444">
@@ -112,9 +46,12 @@ const user = {
   <a href="https://github.com/TheAlgorithms/Javascript">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
+  <a href="https://github.com/3b1b/3Blue1Brown.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3b1b&repo=3Blue1Brown.com&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
 </p>    
 
-<h1 align="center"> Skills & Tools: </h1>
+<h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/">
@@ -129,7 +66,6 @@ const user = {
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
-  <br>
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
@@ -146,14 +82,12 @@ const user = {
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
   </a>
-  <br>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
-  <br>
   <a href="https://www.google.com/intl/en_in/chrome/">
     <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
   </a>
@@ -172,7 +106,7 @@ const user = {
   </a>
 </p>
 
-<h1 align="center"> Socials: </h1>
+<h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
     <a href="https://twitter.com/raklaptudirm">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
