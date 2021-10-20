@@ -29,8 +29,6 @@ jobs:
           
           plugin_habits: yes
           
-          plugin_licenses: yes
-          
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           
