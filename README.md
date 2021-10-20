@@ -1,55 +1,8 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
-  </a>
-</h1>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=8&no-frame=true&no-bg=true">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
   </a>
-</p>
-
-<h1 align="center"> 📊 Stats: </h1>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-</p>
-<h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
-<h1 align="center"> ✨ Contributed to: </h1>
-<p align="center">
-  <a href="https://github.com/antfu/1990-script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antfu&repo=1990-script&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=awesome-github-profile-readme&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/TheAlgorithms/Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/3b1b/3Blue1Brown.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3b1b&repo=3Blue1Brown.com&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-</p>    
+</p> 
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
