@@ -39,14 +39,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: B
           
-          plugin_notable: yes
-          
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 14553594
-          
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}        
           
