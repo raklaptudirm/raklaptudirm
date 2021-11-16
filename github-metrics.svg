@@ -3065,7 +3065,7 @@ The above example is from my own experience. there was a problem with a <code>\s
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.501666666666665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.53266666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3094,7 +3094,7 @@ The above example is from my own experience. there was a problem with a <code>\s
                   
                   
                 </div>
-                                <div class="text">Maintaining a repository with 15855 stars</div>
+                                <div class="text">Maintaining a repository with 15858 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
