@@ -1732,7 +1732,7 @@ let f := 1
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.017 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.02733333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1757,7 +1757,7 @@ let f := 1
                                     maintainer
                                     <span class="gh">ranked 877 out of 287m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 18421 stars</div>
+                                <div class="text">Maintaining a repository with 18422 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
