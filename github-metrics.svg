@@ -1772,7 +1772,7 @@ Co-authored-by: RuSaG0 &lt;mirzoev-ruslan-2000@mail.ru&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.47399999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.49466666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1795,9 +1795,9 @@ Co-authored-by: RuSaG0 &lt;mirzoev-ruslan-2000@mail.ru&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 867 out of 289m repositories</span>
+                                    <span class="gh">ranked 866 out of 289m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 18562 stars</div>
+                                <div class="text">Maintaining a repository with 18564 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
