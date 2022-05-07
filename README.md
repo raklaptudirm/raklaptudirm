@@ -7,9 +7,3 @@
     <a href="https://gitlab.com/raklaptudirm">gitlab</a>
   </samp>
 </p>
-  
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="./metrics.svg">
-  </a>
-</p>
