@@ -20,6 +20,7 @@ jobs:
           # Display
           template: classic
           base: header, activity, community, repositories
+          config_animations: yes
           
           plugin_isocalendar: yes
           
