@@ -1786,7 +1786,7 @@ What should it look like in the output?</i>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.83733333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.84766666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1811,10 +1811,10 @@ What should it look like in the output?</i>
                                     maintainer
                                     <span class="gh">ranked 772 out of 308m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">19952</div>
+                                        <div class="value">19953</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 19952 stars</div>
+                                <div class="text">Maintaining a repository with 19953 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2240,7 +2240,7 @@ What should it look like in the output?</i>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.231155778894473 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2260,10 +2260,10 @@ What should it look like in the output?</i>
                                     <span class="prefix"></span>
                                     Chatter
                                     <div class="value-wrapper">
-                                        <div class="value">9</div>
+                                        <div class="value">10</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 9 times</div>
+                                <div class="text">Participated in discussions 10 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
