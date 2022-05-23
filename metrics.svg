@@ -1786,7 +1786,7 @@ What should it look like in the output?</i>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.84766666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.85799999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1811,10 +1811,10 @@ What should it look like in the output?</i>
                                     maintainer
                                     <span class="gh">ranked 776 out of 308m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">19953</div>
+                                        <div class="value">19954</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 19953 stars</div>
+                                <div class="text">Maintaining a repository with 19954 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2276,7 +2276,7 @@ What should it look like in the output?</i>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.4243668720054705 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6365503080082058 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
