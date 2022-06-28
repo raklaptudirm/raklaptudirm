@@ -1824,7 +1824,7 @@ Co-authored-by: Rak Laptudirm &lt;rak@laptudirm.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.77433333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.79499999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1849,10 +1849,10 @@ Co-authored-by: Rak Laptudirm &lt;rak@laptudirm.com&gt;</div>
                                     maintainer
                                     <span class="gh">ranked 778 out of 318m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">20333</div>
+                                        <div class="value">20335</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 20333 stars</div>
+                                <div class="text">Maintaining a repository with 20335 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
