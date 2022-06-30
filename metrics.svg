@@ -1801,7 +1801,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="107.10499999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="107.11533333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1826,10 +1826,10 @@
                                     maintainer
                                     <span class="gh">ranked 778 out of 318m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">20365</div>
+                                        <div class="value">20366</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 20365 stars</div>
+                                <div class="text">Maintaining a repository with 20366 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
