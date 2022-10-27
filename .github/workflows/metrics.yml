@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
 jobs:
-  github-metrics:
+  github-metrics-light:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -13,9 +13,38 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Core
-          filename: metrics.svg
+          filename: metrics/light.svg
           config_timezone: Asia/Calcutta
-          committer_message: "chore: update metrics"
+          committer_message: "chore: update light metrics"
+          
+          # Display
+          template: classic
+          base: header, activity, community
+          config_animations: yes
+          
+          plugin_languages: yes
+          
+          plugin_introduction: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
+          plugin_activity: yes
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+  
+  github-metrics-heavy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core
+          filename: metrics/heavy.svg
+          config_timezone: Asia/Calcutta
+          committer_message: "chore: update heavy metrics"
           
           # Display
           template: classic
