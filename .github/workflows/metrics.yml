@@ -29,8 +29,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           
-          plugin_activity: yes
-          
           plugin_achievements: yes
           plugin_achievements_display: compact
   
