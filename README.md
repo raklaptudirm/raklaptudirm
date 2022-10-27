@@ -2,7 +2,6 @@
   <!-- Monospace Font -->
   <samp>
     <a href="https://editor.p5js.org/raklaptudirm/sketches">p5.js</a> .
-    <a href="https://en.wikipedia.org/wiki/List_of_formulae_involving_%CF%80">pi</a> .
     <a href="https://twitter.com/raklaptudirm">twitter</a> .
     <a href="https://stackoverflow.com/users/14553594/rak-laptudirm">stackoverflow</a> .
     <a href="https://en.wikipedia.org/wiki/User:Laptudirm">wikipedia</a> .
