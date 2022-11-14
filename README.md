@@ -6,6 +6,6 @@
     <a href="https://laptudirm.com/blog">blog</a> .
     <a href="https://www.linkedin.com/in/laptudirm/">linkedin</a> .
     <a href="./metrics.md">metrics</a> .
-    <a href="https://gitlab.com/raklaptudirm">old-projects</a>
+    <a href="https://gitlab.com/laptudirm">old-projects</a>
   </samp>
 </p>
