@@ -305,7 +305,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="148.75866666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="148.769 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -330,10 +330,10 @@
                                     maintainer
                                     <span class="gh">ranked 629 out of 368m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">24396</div>
+                                        <div class="value">24397</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 24396 stars</div>
+                                <div class="text">Maintaining a repository with 24397 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -629,7 +629,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 221k out of 368m repositories</span>
+                                    <span class="gh">ranked 225k out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
