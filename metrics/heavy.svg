@@ -1839,7 +1839,7 @@ Co-authored-by: Bekzod &lt;bekzodisakov18@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="170.4896666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="170.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1864,10 +1864,10 @@ Co-authored-by: Bekzod &lt;bekzodisakov18@gmail.com&gt;</div>
                                     maintainer
                                     <span class="gh">ranked 593 out of 401m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">26499</div>
+                                        <div class="value">26500</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 26499 stars</div>
+                                <div class="text">Maintaining a repository with 26500 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2020,7 +2020,7 @@ Co-authored-by: Bekzod &lt;bekzodisakov18@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.43m out of 115m users</span>
+                                    <span class="gh">ranked 2.59m out of 115m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
