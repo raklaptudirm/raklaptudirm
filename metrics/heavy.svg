@@ -1815,7 +1815,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="175.45999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="175.47033333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1840,10 +1840,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     maintainer
                                     <span class="gh">ranked 592 out of 412m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">26980</div>
+                                        <div class="value">26981</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 26980 stars</div>
+                                <div class="text">Maintaining a repository with 26981 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
