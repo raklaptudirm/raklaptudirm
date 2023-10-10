@@ -307,7 +307,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="196.0956666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="196.11633333333336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -330,12 +330,12 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 550 out of 55.6m repositories</span>
+                                    <span class="gh">ranked 550 out of 61.1m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">28977</div>
+                                        <div class="value">28979</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 28977 stars</div>
+                                <div class="text">Maintaining a repository with 28979 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -527,7 +527,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.80m out of 121m users</span>
+                                    <span class="gh">ranked 2.81m out of 121m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -675,7 +675,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 248k out of 55.6m repositories</span>
+                                    <span class="gh">ranked 248k out of 61.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
