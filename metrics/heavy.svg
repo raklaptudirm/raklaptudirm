@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2145" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2105" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -90,7 +90,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            249 Pull requests reviewed
+                            252 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -130,7 +130,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 38 users
+                            Following 39 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -142,7 +142,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 276 repositories
+                            Starred 277 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -186,13 +186,13 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    26.7 MB used
+                                    26.9 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    151k added, 131k removed
+                                    37.2k added, 20.6k removed
                                 </div>
                             </section>
                             <section>
@@ -503,7 +503,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 53 commits)</small>
+                    <small class="h-details">(computed from last 56 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1579,10 +1579,11 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    38 followed
+                    39 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQEDBAIG/8QAJxAAAgEDAwMEAwEAAAAAAAAAAQIDAAQRBRIhIjFBMkJRoWGRsfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAYF/8QAIhEAAQQCAgEFAAAAAAAAAAAAAQACAxEEBSFBEjJRYXHB/9oADAMBAAIRAxEAPwDXaQrqMjqmpRBY1ysUgKePHH++6dgubfSdHuLa7Z5LqWQNEQuU6fSQSM484NeH025i0/THvpMNcBwkK89Off8ARGDU3d5Bdl2kneS5PPJqg2WXLDsGYMTCWCiaHfsKSOr1EWXhy7HKcA8ggWbH2QT+rdezsweR1E5fJcOe/wCaEjvxaxrFncVHJA81vtjDdF4p7gQjbncWAH3R1sYRFhSSMnqI7896sohGSWEchQBgcMdpk5FmkXLqaSLJBENtr6AD7x8n9VXDMluvSoAPmi4V3aTLIc71l4NTYzubiJDgqxIIIp+KGN3k6vSa+eFtTse4AXweukq951Dmq1ud+WEgXJ7fFFTOyxR4Pz/a4ErAYGKZfGGiwgR4zSKK/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFBUlEQVR4nMWWS0wbVxSGXQnEJruwTtfpEnaVsmilSLS9roSidh12VfoQlVqxbb1I00rlYTCIUkQhJSUoVYkImOBAMAEHYtcxjuPxixnbjD2e8die8RvzuNU/TaMANo8oUq90JXvmnP+7c+45516d7oRRX1+v0+v1jf39/e84HI53FUW5TCn9CBO/8QzvYAPb1x4NDQ1vtbe3X4jFYu9TSsne3h7Z3d0llUrlwMQzvIMNbNvb29+G75lgTU1N57xe7yUI7ezskO3tbVIoFEgulyOqqhJFUbSJ33iGd7CBLXwYhrnU3Nx87lSw1tbWxmKx2IKVQySfz5NMJkOSySRJJBIkHo8Tnue1id94hnewgS184AsNaJ0Iq1QqH2ClpVJJ+wpJkjTxpCx3CSnVKsjKvzOlWMW0ao1Go59zHKfZwBY+8IUGtGpCEUasCobFYpGk02kiCAJhWZaEQqGrfrFQuu/PUEtQoYubKl3isnQ5kqNCSnG5XC7i9Xo1W0EQNF9ovNBqgfYBGDYZcUcosDo4xGIxEgwGidvtJnwi+XCOSdNqQLdYpAzju76+vq7ZBoNBzRca0IIm8uFAIiEb9/f3tfgjJFglHLFyj8fzjSOapbPe6sBwQuZ8Pt+t+fl5srq6qvnAFxrQgia0wdBgqB2kMz4fm459QGg2NjaIzWYjnJDy3fOkqgL9yULFbDYbQrEk6+dlNiSkWU5S2YicY1Nq3iZJkh6a0AZDq1NCSCNqqFwua5mGzWcYhiBECwsLrf5YJlkNuBrJ0cUl652nHt+TV8O9sKnSh2yWOmIFmlGUbmhCGwywdP39/RdRO6glpDcyDmGxWq1kamqKrNpsPUtB5QiQ4eXM4ODg9fVwlpqrAJfDOcor5bQsy59AGwyTyXRRh9aET0YBo6YCgQCx2+0EezIxMUEGBgY+fs7FIwuBDF0KKdTKqtTB52mP0dhn94TYe89TNYFrfJ5m84W70AYDLJ2qqpfRotA1kF0I59raGpmZmSFjY2Oks7OT9PT0XBseHu7s7u7uNBgMXR0dHT8bDAbjYiBDjwOuRPM0mC7vFQqFr8BA79VRSj988UfbP9QTkmV6ehrziw1WLjxmEsXHjFhc8yW0aXN6oy0tLV//HVF2TwJupss7uVzuGhhgHQt0+yNu43SA9s0G6cDcJv3FwtJfF8L0to2nP9z46eZvN8enkTC1gOt8nqrZ3J/QfgnEZ1YLqcu1ceOWNUyrAUeWInSVSZTa2tq+3Agns7WTpigJgnAF2i9DWi1pnE7nFYdflLqmfDWBvz/aonMPrNbR0bGB5U3lCNAZL9CEKP4IzQNJ09fXd6QsYnFhdGA2QI8Dji1v0WVGpr29vd8+84WcTEQM+3mJC8VTXFhSWDGVWYEWNA+UBSHk/OHC53n+u9vLkROBT4JyyWg0XkUmDw0NkcnJSa2c0DSwNdA6Uvh1dXU6nuffO9zauJjs6L5bG3hnLU4frdhGTSYTGRkZ0WBms1nrp2iL0IDWkdZWq3lHo9HPHriEnVrAZ6wYHx8fb0VzQEc6dfPGwNGBI+Tw8ZRIpv8anAsdAZqfJqjdbv8ezcFisWht8EzHEwbuIIcPYFEUP5VS6v2oIFvCMcnC8aKF3UpYwlH+D9Qqygdt8MwH8GmuGMg4lAySAeKY+I1nr3XF+F8uUW/ymthUK4y1xn8XYZ7nz3oRvnDmi/CrA3Wq1+vPv6mr/j9dh6GMJ2FYMAAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE9ElEQVR4nLXWe0xTZxzG8VLaSmkLgoKlSgWdUoFBOrmd0yuXVi2gVqHohIEISIcIIgqKKGYXjOjcjDJG3Ngyl7gtOllmRhTCgps6p6JipigC3nX2lAJyKcU8CzW6xaAW132T98/3/eS855ecQ6O9Ihcmy3VPaPS+hzq95VBkfB2XweTR/q9iPH3Ul+al3zQuzoVRlwPjkhwcm6P9zYXJcrErxGOweJ8EqT4zxOfDuCAPxkWrYUxYBaPuXRiTM9AQO/+UG2vceLtgCvepUecVWR2UpgBU3BpQ8/NhXJiHu1p9v3FZJrreSUdXahp+XTC/eaLTOI/XhjiOTM4OP/Ueg2rdY2pOIai5a/EUbVImnxOwuYLy0PCPulKXoystFab0FJxeHN/iyXaaNGZM4iqUnQvXt1GRxaCii0Cp1sGKzluL2ojEBhfGP+8sUyTSG9KSLaYVy2DKWIo/dJo/BRy2l81YKv+tjIfSjY8p+UZQyg2goopAxay3ol8Exx9g0R1Zz+9RTRHMvZWaaDJlLoFppQ7nls5tncxhT7YJbA0vuE/JNoGSleAJWmxFK0Tq3XSaA/1F+0RuLv4X34693p2dgG79IlxMUV/z5rGFrwSvRxRSlKwUT1GDYgM6Irfg89krmyaweF/TaDTYsrbL30RLWky7r6uzz0vB/CnkuidgKQyyTehQlKE56gOcUG2DzkdhPaywsBAFBQXIzs5Gbm7u6KAiEN2r43B5RdSNaeOdp78UlbpOle+blfDtVflmc0vk+/g9phy/qLcjwUeBwMBANDY2oqGhASqVComJiaOC6YHClu48DXry5+FqlvLWDDfnma+8Xk8Wz2ulb3TpYXnJraNzdkDrq4RWq0VOTg527dqFqKgoJCQkIDQ0FDExMQgPD0dycjK8vb1H0FUpAVPSqDy1uadAjWvZ8juiCRwRzZYcHegMKT94kdhjVkt5eTlqampQW1uL/fv3o7OzE5WVlairq0N9fT2qqqqgVqut4Mhehbe78uYqJdVTGI3rOdL7AR6cANoYqoiIiIBGo0FwcDCSkpIgFAqtTy0Wi0EQBHQ6Hfh8/jNwJD93Z7+LmURbz/pItK8mHwR5coJoNlZh65T+GxxJ6TNeaSqSD/cUy3E8XXyG9n+BAheW117tjGrTZqmlp0QGY5F0KGu2l95mkMPhwN3d/dlis9mjgjwnx+ItccKtf5UTvY+2SdH7ngzNObOvhAi4IbZiVjAlJQXV1dXPVlxc3KhgRZLv4769Ujz6WIre7RLsXvhGJYdJdx4LNqYr3bl0GvqqpOj8MOy+JsAtlmbP5EEusqadQScGfpCg/zsJ+r+RoP9LKQ7m+td68piv/418Pn9ftuhQuejwYD2JgZ8lGPhRgoGDEhi+iujNiOZn2Q3y8mDyPy2dXtV3grAMHicx2Ehi8KgEA0ckOL4j6NRMgdMMu0BcDp27dY13WdfZ8F7zBRLmMyTMJ0kMNpHoO0ZaylKFZQxHB8Z/hpgMB4Z++aTsO+dD7g21ExhqJTF0iYS5mYT5NIlLB8RXwvy5YTR7deR70U/DDwlY7hKw3CAw1EZg6DIJ8wUClSXTKjnssY/7C/MRsoTDRgLDFAHLAwKW2wQsHQTunAy5F6u087jTRv5JeXRu9+2wXitqIGC5R+BwjV+t50Q7jvvzLYh1i289K77adl7cnpXqmWnPw/8GHDGlZHrzOO0AAAAASUVORK5CYII=" width="28" height="28" alt="" />
@@ -1606,7 +1607,6 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAABwElEQVR4nGP4//8/Azb84NtX2fqbV2tNjuw9ybpt3Q+GrWv/UwX/R7Po/a9ffJmXz01m2bbuJ9Us2YrDwsufPmgq7Nt+lyYWbUWz8Oqnj+rCuza/oKllW6EWfvr9i1t5/45bNLdsK9TCoqsXO4nVwLR17Z/qG1caz398r3fzyydVXJgBlxkvfnwX4di+/iuxFqZdOjsVV8pGxjjN6Lt3K4+UIFn25GE4RRa6nDi0gxQLVz17HEqRhcK7Nr8kxcKtL5+5E7Ls/a+ffDjNIMUyg0N7znz/84eNkIWl1y61kWwh49a1fyPPnVzScedGaeedm6XzHj+I+/L7NyfIwBPv35qWXLvUmX3l/CR0bHV0/yG8DsclMfHe7Uxsrt/z+qUD89Z1v0kJGQZCFjJvXffrx98/rNgsjD1/aj7Zlm3FYSHn9g1fccVP6NkTq0YtZBgNUoahlmgsj+4/7Hf62AZkTFML97x+aUN04c0w2C10O3F4OyEL35NaW+Cy8NT7t0Zs29b/IGRh+fXLLSRZyLJ13a/S65c6kXHM+VMLObav/4ZNfdjZE0tBaoqvXeqyO3ZgH8mplFYYVOXR1UKFvdvvAgCvhL5nJ0zS/wAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYDBwIFCP/EACwQAAEDAgQEBQUBAAAAAAAAAAECAwQABQYRIVESEzFhFEFxgaEVI1Kx0dL/xAAZAQABBQAAAAAAAAAAAAAAAAAAAQIDBAX/xAAbEQABBQEBAAAAAAAAAAAAAAAAAQIDERNRQf/aAAwDAQACEQMRAD8AtVV5tSV8K7jDQdlPAfuphcILjgbZlsuuLGYS24FkjfTy70k4/wAXw7Q8bet9Dk8p4yl08tpvz8tem5yqp7jiV+E45IsdzLcx5wFXhQBzNOnAnIelMWWgSM6UCSrrmBtS/fsV2iwzUxLhLQw6pAcCTn0JOvTsaQ8DYsxEkSI67XcbmsqC+J4FC29OhJGXzRWJrJf8SXFM12w8opbDYQuQ1mACTv3pdl8DMbbnZYF2bLd0jiSMsvusOrPsctKDsOGbfZmkNxw6C04442rlOAo489NE7HKtnPXKZB4J8r3UP5Q9tlTJBPMnSNNiP5WHtJ0vU26olejyHHQW5slCNuS4az+mylAEXF1Pbkuf6osTH20jJwn11qTxb/5/Ao3k6S4tP//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwAGCP/EACkQAAEDBAECBgIDAAAAAAAAAAECBAUAAwYRIQcSCBMiIzFBFDJRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5UqpJ8P4j3HVCKj5iJZyjOQ7mptO7fem3vnzEj+fTr/TTRCscKyLJuouKOMIi2zKETfcWnLfaHJNtZCvc+hv4A4A40aDk6qnzI2+PZd4fXWUtMZjIKTi5NLJKmCCkXEe3+++VcXBydnY/ugOg1fT7M3uDZCJqLZRzt2i0baA+sm4hGyPWNEEK4+d/ZrY2OuU83y15kViGxy07es/wnFlDRYtXh5hWVrHmbKiToknkUR1UCJGdUpRhh8/jVqLhLkZMuLzm6m42UTZXdSB7Xr0jt7QU8HRo7qqoP/Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBQcI/8QAKRAAAQMDAwIFBQAAAAAAAAAAAQIDBAAFEQYhQRITByIxUWEIFVJysf/EABcBAQADAAAAAAAAAAAAAAAAAAABAgT/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEC/9oADAMBAAIRAxEAPwDm2FEkTnwxDYdfeIKg20krOAMk4HsATUFN1qcNu8NrxMi+SXOmtW9x0eqWO2txaB+5CM/CccmtR+n/AEhaU2GTdtVtJdb1GVWW2RcArd5ccHtgtjB4IPxWzeoqwdqJIfYffYYdcZYALziEkhsE4BUeN9t6gp5sFtumjfFOJZLvHxIMhuFNi9fUh5l7AWg49QUK/h4pOvEZEO6y4yF9SGXVtpV+QCiM1NFxpy8RI9rutouzbrlunpQ4FMgFxh9vPacAJAI86kEZGyjyBQdW3dNvsEViU7H+xqdXCdZUUKR3FdRwffOd/ml+ikDrG1oXtYTdV3nvTL2hKVwhgFAeSAltxwnc9sAEbbkDON6SlKyoqWVKUdyaKKQf/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1627,14 +1627,25 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">raklaptudirm/mess</span>
+                                        <span class="repo">TheAlgorithms/JavaScript</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">mess-1.x.x</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#48c8fbe</div>
-                                        <div class="message">chore: refactor and comment position.hpp</div>
+                                        <div class="sha">#60443c7</div>
+                                        <div class="message">test: add tests for Binary Equivalent Algorithm (#1560)
+
+* test: add tests for Binary Equivalent Algorithm
+
+* test: Refactored tests using .each()
+
+* Update BinaryEquivalent.test.js
+
+---------
+
+Co-authored-by: {Harshit Malpotra} &lt;{malpotra.harshit@gmail.com}&gt;
+Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1643,16 +1654,16 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#685 Add Fenwick Tree to Structures</span>
+                                        Merged
+                                        <span class="issue">#1560 test: add tests for Binary Equivalent Algorithm</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by 11-aryan in <span class="repo">TheAlgorithms/Go</span></div>
-                                    <div class="comment">because thats what you are doing? copying a slice?</div>
+                                    <div>opened by malpotra in <span class="repo">TheAlgorithms/JavaScript</span></div>
+                                    <div>1 file changed <span class="code">++29 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1664,11 +1675,24 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#685 Add Fenwick Tree to Structures</span>
+                                        <span class="issue">#1560 test: add tests for Binary Equivalent Algorithm</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by 11-aryan in <span class="repo">TheAlgorithms/Go</span></div>
+                                    <div>opened by malpotra in <span class="repo">TheAlgorithms/JavaScript</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">jw1912/akimbo</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1686,30 +1710,23 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb7afaa</div>
-                                        <div class="message">Feat(maths): add matrix multiplication (#211)
+                                        <div class="sha">#deaa0af</div>
+                                        <div class="message">feat: Fibonacci Series (#205)
 
-* Feat(maths): add matrix multiplication
+* Feat: Fibonacci Series
 
-* Refactor maths/matrix_multiplication tabbing</div>
+* Update DIRECTORY.md
+
+* feat: generator for fibonacci function
+
+* Update DIRECTORY.md
+
+* Update DIRECTORY.md
+
+---------
+
+Co-authored-by: autoprettier &lt;actions@github.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#211 Feat(maths): add matrix multiplication</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by R055A in <span class="repo">TheAlgorithms/TypeScript</span></div>
-                                    <div>3 files changed <span class="code">++215 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1832,7 +1849,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="199.45399999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="199.46433333333331 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1855,12 +1872,12 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 543 out of 182m repositories</span>
+                                    <span class="gh">ranked 543 out of 183m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">29302</div>
+                                        <div class="value">29303</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 29302 stars</div>
+                                <div class="text">Maintaining a repository with 29303 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1909,7 +1926,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.26666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.78333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1928,10 +1945,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix">Great</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">276</div>
+                                        <div class="value">277</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 276 repositories</div>
+                                <div class="text">Starred 277 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1944,7 +1961,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.316666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.866666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1972,10 +1989,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix">Great</span>
                                     reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">249</div>
+                                        <div class="value">252</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 249 pull requests</div>
+                                <div class="text">Reviewed 252 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2200,7 +2217,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 251k out of 182m repositories</span>
+                                    <span class="gh">ranked 251k out of 183m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
@@ -2253,7 +2270,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.819095477386934 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.597989949748744 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2271,10 +2288,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">38</div>
+                                        <div class="value">39</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 38 users</div>
+                                <div class="text">Following 39 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
