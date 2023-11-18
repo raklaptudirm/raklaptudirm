@@ -1834,7 +1834,7 @@ Co-authored-by: Taj &lt;tjgurwara99@users.noreply.github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="203.13266666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="203.143 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1857,12 +1857,12 @@ Co-authored-by: Taj &lt;tjgurwara99@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 537 out of 64.6m repositories</span>
+                                    <span class="gh">ranked 537 out of 61.5m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">29658</div>
+                                        <div class="value">29659</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 29658 stars</div>
+                                <div class="text">Maintaining a repository with 29659 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2015,7 +2015,7 @@ Co-authored-by: Taj &lt;tjgurwara99@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.68m out of 125m users</span>
+                                    <span class="gh">ranked 2.68m out of 118m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -2109,7 +2109,7 @@ Co-authored-by: Taj &lt;tjgurwara99@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 56.6k out of 125m users</span>
+                                    <span class="gh">ranked 56.6k out of 118m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">159</div>
                                     </div>
@@ -2202,7 +2202,7 @@ Co-authored-by: Taj &lt;tjgurwara99@users.noreply.github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 254k out of 64.6m repositories</span>
+                                    <span class="gh">ranked 254k out of 61.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
