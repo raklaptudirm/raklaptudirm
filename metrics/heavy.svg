@@ -1858,7 +1858,7 @@ Co-authored-by: Rak Laptudirm &lt;rak@laptudirm.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="203.96966666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="203.98000000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1881,12 +1881,12 @@ Co-authored-by: Rak Laptudirm &lt;rak@laptudirm.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 535 out of 51.2m repositories</span>
+                                    <span class="gh">ranked 535 out of 53.1m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">29739</div>
+                                        <div class="value">29740</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 29739 stars</div>
+                                <div class="text">Maintaining a repository with 29740 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2014,7 +2014,7 @@ Co-authored-by: Rak Laptudirm &lt;rak@laptudirm.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.0609171800136763 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2226,7 +2226,7 @@ Co-authored-by: Rak Laptudirm &lt;rak@laptudirm.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 254k out of 51.2m repositories</span>
+                                    <span class="gh">ranked 254k out of 53.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
