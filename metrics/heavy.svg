@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2122" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2086" class="">
     <defs>
         <style/>
     </defs>
@@ -507,8 +507,6 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Uses spaces for indentation</li>
-                        <li>Has approximately 80.1 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -1833,7 +1831,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="204.39333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="204.40366666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1856,12 +1854,12 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 532 out of 57.2m repositories</span>
+                                    <span class="gh">ranked 532 out of 54.3m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">29780</div>
+                                        <div class="value">29781</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 29780 stars</div>
+                                <div class="text">Maintaining a repository with 29781 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2053,7 +2051,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.69m out of 125m users</span>
+                                    <span class="gh">ranked 2.69m out of 124m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -2108,7 +2106,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 55.9k out of 125m users</span>
+                                    <span class="gh">ranked 55.9k out of 124m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">161</div>
                                     </div>
@@ -2201,7 +2199,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 241k out of 57.2m repositories</span>
+                                    <span class="gh">ranked 255k out of 54.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
