@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 20 repositories
+                            Contributed to 19 repositories
                         </div>
                     </section>
                 </div>
@@ -192,7 +192,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    37.4k added, 20.6k removed
+                                    36.9k added, 20.5k removed
                                 </div>
                             </section>
                             <section>
@@ -431,20 +431,20 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 13.4mb of code in 1986 edited files across 893 commits</small>
+                <small>estimation from 13.4mb of code in 1984 edited files across 892 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.8563530561912" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="449.8563530561912" y="0" width="8.899968070643261" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.75632112683445" y="0" width="0.8472842263162542" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.6036053531507" y="0" width="0.229550572327972" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.8331559254787" y="0" width="0.09810332047729317" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.931259245956" y="0" width="0.03384160199089885" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.9651008479469" y="0" width="0.03340614020057478" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.99850698814754" y="0" width="0.001493011852539655" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.2497039451466" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="450.2497039451466" y="0" width="8.505529718574298" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.7552336637209" y="0" width="0.8480250850400562" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.60325874876094" y="0" width="0.2297512895593104" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.8330100383203" y="0" width="0.09818910125610636" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.9311991395764" y="0" width="0.03387119282392001" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.96507033240033" y="0" width="0.033435350269200456" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.99850568266953" y="0" width="0.0014943173304670593" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1840,7 +1840,7 @@ Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 535 out of 52.8m repositories</span>
+                                    <span class="gh">ranked 535 out of 58.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">30021</div>
                                     </div>
@@ -1993,7 +1993,7 @@ Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.71m out of 124m users</span>
+                                    <span class="gh">ranked 2.71m out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -2092,7 +2092,7 @@ Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 55.7k out of 124m users</span>
+                                    <span class="gh">ranked 55.7k out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">163</div>
                                     </div>
@@ -2185,7 +2185,7 @@ Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 256k out of 52.8m repositories</span>
+                                    <span class="gh">ranked 256k out of 58.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
