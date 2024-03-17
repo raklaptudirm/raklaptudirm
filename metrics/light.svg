@@ -84,7 +84,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4399 Commits
+                            4400 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -270,8 +270,8 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.4649866850774" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.4649866850774" y="0" width="2.535013314922576" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.4672661205888" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="457.4672661205888" y="0" width="2.532733879411221" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -330,7 +330,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 550 out of 118m repositories</span>
+                                    <span class="gh">ranked 550 out of 125m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">30833</div>
                                     </div>
@@ -444,7 +444,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.49m out of 129m users</span>
+                                    <span class="gh">ranked 2.49m out of 132m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
@@ -582,7 +582,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 54.9k out of 129m users</span>
+                                    <span class="gh">ranked 54.9k out of 132m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">172</div>
                                     </div>
@@ -717,7 +717,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 261k out of 118m repositories</span>
+                                    <span class="gh">ranked 261k out of 125m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
