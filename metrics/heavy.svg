@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2177" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2111" class="">
     <defs>
         <style/>
     </defs>
@@ -130,7 +130,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 50 users
+                            Following 51 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -142,7 +142,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 355 repositories
+                            Starred 356 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -186,13 +186,13 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    62.4 MB used
+                                    59.3 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    36.1k added, 21.3k removed
+                                    28k added, 16k removed
                                 </div>
                             </section>
                             <section>
@@ -1586,10 +1586,11 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    50 followed
+                    51 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQGBQP/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBEFEiEUMUEGE3EiMkJhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAUGAgME/8QAHhEAAgIBBQEAAAAAAAAAAAAAAQIAAwQREyEiMkL/2gAMAwEAAhEDEQA/AJzRtLF3bHpZk6nuYm43ADwfB+avNF0DTbL0/pLa5qNxDd36SewYId6qoPG7yfHaotLUQiS1M0kcUrAEDjf81uWPq7W9DtUsrSVBDDu9kvCrPED32kjjNHWqss8RqyNz4Mnr6J+qeLdvwcZGQDz++f5WnbxlYgHclvPNDDcW8iO0loDO2SZmkfJJ898ULTLnii1OLbYOBM73onqNXMC3mAjA4I5xXO6gY4WTLgDil8sko2O6hRwoY48U1bStPE2/A+j8Rio469tZfeeukQdsjGMUFHL9xoKa0UAcRYsYseZ//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcDBQYI/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBRIhMUEGEyIjUQcUJDJSYWKB8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABsRAAMBAQADAAAAAAAAAAAAAAACEQEDBBIh/9oADAMBAAIRAxEAPwDqeRtsbN8DNDSOzcg7CBxz1qO7mKltxGwMO3TjOapZb+4XT7i4mimiyuRuAOBz8Gsa0EVaX63ab1WT0kjIPY0VWXt7yO+0+yuEYoGUuM8HHStJEixxqkYwqjArWbSMsA9VEX2xMwJB9GAeue1Vmpara6XCjXd3GEfPl7lySAM4J/39mitVO67SM/lUZApb/U+Z/NsYM+0ymQj+WOtE7fYNy5e+ZTPeItfuNUvZRFLIlln24ugx++KdWiebb6PZQXi/iIoVR8EvyB+rvSM8NRR3OvaZHOgeOS5VWU9CNwp9KzF5Oe47D4FVBPLizD//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -1613,7 +1614,6 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEQ0lEQVR4nKVWSUgkSRRNcBQsIS/WrQpJ073Kfd/3fV9xFxF3R1zPevDiSbCbQVAEwZPeRAXx4lFBB8W5CJ5GBG8ygt1qS/UfXtARE1mVlsoEBBkZ+eO//D/efxGK8n7zsVgs5Var9Q+bzfanpmkPuq5TSEiIC2ObzXZqtVq/+vv7l8FW+R/tN1VVx4KCgv4GAO8NDQ0UHx/PxhEREdTY2Ci+wVZV1d8VRfH9FJKfn1+c3W6/hJOcnBzhEL2jo4MyMjLYODIykqanpw3fdV0nrIWPD4EFBAQ0apr2jS/u7+8Xjnp7e1mEhYWF7D0sLIxmZmaos7NT2ISGhrJ5+ICvd8GCg4N/yH87MDAgxrOzs1ReXk5VVVUsUswBcGpqigHhPTU1lWprayk3N5fg601QpEDTtO+xsbHkDpiVlUVpaWnMcV5eHjU3NzNwfMdcUVERG1dWVlJKSgrV19eLqBGpWXp97Xb7XzCYmJig6OhoklOan59PdXV1DAgOu7q6aHJyUoDgZzDGfHh4OCOVnGb4NhBJVdVxpKSsrIzGx8dpeHhYGPf19VFUVBRlZmayd6fTyaKWyTQ0NMT2rbu720AuOVPA4Hg+nPpYODo6SoODg6gzZtjT02NYiHn8lDzX1tbGIvMGCAxWpyhYTBQUFLD0JSYmstTh6U533kEMs3kAOhwOys7Opvb2do/vTBwCAwO/4KW1tZXRHmMwrLS01OBoa2uLrq+v6f7+nm5vb+ng4IBlwh0wLi6ORQd/mJOBgaVAmvDS1NQkUoKCxgJEeXp6St7a4eEhs8c6RAeWgzAcUE4/sBSujaAy/gaLIFlI78bGBt3c3NDl5SXNzc29Cbq/vy+cOp1OA+DY2JgIRNO0fxRd111cwlpaWhjFIV0PDw8Gp8/Pz14jlZntcDhYxjCuqamRU+8C4E+8gGVQERgjus+2i4sLw34mJyeLsQGQpxQRJiUlMZ0EYV5fXz8Nmp6ebspeHj2wBGlQuGBnRUUFe2Ifzs7ODA5fXl7o5OSE5ufnaXl52QNQFnq5j4yM/EcaXha8HECY6upqYYw9RaqhQpyNm5ub9PT05AG4sLDgNUJWFrzw0SHSMTExBmPoI54QaK4+5+fnpildX1/3AEtISGDyKAr/l7TdYAI1hNNAXgAy4Yma5Cf93t6eKeDu7q4HIMQEh4GQNi7e3MD9hOc0h7hDsnhKzdrx8TH7LpOHa7Es3objCfvoDohTngs3nmtra6aAV1dXxHWZr8Xx5XE8yQewfBYWFxeL/ZP3dnV11RTw7u5O2HNb+HzzfuN+xcBVQo7sPcDHx0cDoNcrhgyKv8KCkpIScWGSOzTWrLlcLrbXIBh8vAsmp5fvqRmJtre3PcBwbK2srLBsYO2Hr4lS8wWzeMnIfXFxkY6OjmhnZ4eWlpbY+Yfyge0vNn7uIuzWfFCwuM5Dmrj2cm3kV32LxfKhq/6/MqkEcUoxHWcAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAABa0lEQVR4nO3VsauCQBzA8V9Ck0I1uhVYNDq0thxODkFD5CA0COEa/QFOTkJDCeHW0ODi4BT9ES2NDc2CoIjlZhd4U71erzIevEef7bjji/dTEOBfYRhmOByqqloqld6Q4zhuMpmEYYgzURTNZrNGo/FKq1AoiKK4Wq3SNMVfnE6n9Xrd6XQoinooVy6XR6PRbrfDD9jv9+PxuFKpfJur1WrT6TSOY/yk4/E4n8/r9fp1kWXZKIpwDofDoVqtXkSbzSbOjef564ftdrsv3J0Iw7DX690eq2VZN1/3fWmamqYJv02WZTcjCAIA2Lbtuq5t22SXLBeLBQAIgkBO9vv9H6K6rpNLKYoCAGTKcRyTXbL0PA8AFEUhJzVN+0Tv0T8zzRiGgRBKkgRjnCQJypBlEAQIIcMwHvqkJEnyfR8/KQiCwWBwI0dR1HK5xDk4jlMsFi+irVYL59Zuty+iNE1vNps8xe12+55/Lfx5Z8Ouvhsg4EqTAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQf/xAAuEAABAwMBBwIFBQAAAAAAAAABAgMEAAURIQYSEzFBUWEigRQjUmJxcqGx0fD/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYBA//EACARAAICAgICAwAAAAAAAAAAAAECAAMEESExBRITIoH/2gAMAwEAAhEDEQA/AJ+8zkwGRulIcXonOcDzp7CjWLZS8XpovqluoCvUgkY0/SNRSt32fdvstXCfCFRmg4lrq4N7XB7jSum2dqS1b0LhHdSEpToRgDTU5Bz+1J6wFQEdyvz7bWyCm+BIhUCba5Zh3BYcBSVNOp6gHUHz5onDHc1s7Spfly2ZIAQ02dQMYOQdcc88+uKzDp0FDWnR3G2FYzVfbnUSnxJkxbLdpfcYnhXy3EKKcA88nkE451TQprlvtURu7NqS0FFKnEFQSg9lEdM+cEVkbNTHRcZqMJ3cNnr93+96uNn92TEdafbQ42V5IUK7Uhimz1uTmdmo+c2OByB+SPmyETLpKXD4ZjgJzwySkEdPzj+aAW1HtTs6KyLpOjNoDbH0N+ka5/qonaSL8DcA1EkSWWi2FbiXCACc8qyxEZtbMNw/JfGpr9ejP//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1626,6 +1626,19 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">CodeEditApp/CodeEdit</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1706,34 +1719,6 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">raklaptudirm/mexx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">src/ataxx</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d7a7e3c</div>
-                                        <div class="message">chore: refactor move.rs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d6881d</div>
-                                        <div class="message">chore: make color.rs actually presentable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22403d6</div>
-                                        <div class="message">chore: more board formatting</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1792,13 +1777,13 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">mexx</span>
-                                <div class="bar" style="width: 78.70400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">98%</span>
+                                <div class="bar" style="width: 78.904%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">mess</span>
-                                <div class="bar" style="width: 1.2960000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 1.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -1807,17 +1792,17 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 79.256%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.376%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 0.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.46399999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
-                                <div class="bar" style="width: 0.19199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1843,7 +1828,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="216.64866666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="216.69 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1866,12 +1851,12 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 554 out of 108m repositories</span>
+                                    <span class="gh">ranked 554 out of 99.2m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">30966</div>
+                                        <div class="value">30970</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 30966 stars</div>
+                                <div class="text">Maintaining a repository with 30970 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1884,7 +1869,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.08333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.60000000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1903,10 +1888,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix">Great</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">355</div>
+                                        <div class="value">356</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 355 repositories</div>
+                                <div class="text">Starred 356 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1980,7 +1965,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.36m out of 134m users</span>
+                                    <span class="gh">ranked 2.36m out of 130m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -2118,7 +2103,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 55k out of 134m users</span>
+                                    <span class="gh">ranked 55k out of 130m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">173</div>
                                     </div>
@@ -2253,7 +2238,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 261k out of 108m repositories</span>
+                                    <span class="gh">ranked 261k out of 99.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
@@ -2306,7 +2291,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.165829145728644 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.94472361809045 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2324,10 +2309,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">50</div>
+                                        <div class="value">51</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 50 users</div>
+                                <div class="text">Following 51 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
