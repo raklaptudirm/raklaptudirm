@@ -1822,7 +1822,7 @@ Crate Published at: https://crates.io/crates/ataxx</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="218.41566666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="218.426 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1845,12 +1845,12 @@ Crate Published at: https://crates.io/crates/ataxx</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 553 out of 98.9m repositories</span>
+                                    <span class="gh">ranked 553 out of 92.4m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">31137</div>
+                                        <div class="value">31138</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 31137 stars</div>
+                                <div class="text">Maintaining a repository with 31138 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2267,7 +2267,7 @@ Crate Published at: https://crates.io/crates/ataxx</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 261k out of 98.9m repositories</span>
+                                    <span class="gh">ranked 261k out of 92.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
