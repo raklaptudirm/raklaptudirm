@@ -192,7 +192,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    40.4k added, 22.1k removed
+                                    145k added, 128k removed
                                 </div>
                             </section>
                             <section>
@@ -431,20 +431,20 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 13.8mb of code in 2183 edited files across 943 commits</small>
+                <small>estimation from 13.8mb of code in 2182 edited files across 942 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.56540891076594" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="437.56540891076594" y="0" width="8.680553980808503" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="446.24596289157444" y="0" width="8.18939189567833" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="454.4353547872528" y="0" width="3.7334433266998466" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.1687981139526" y="0" width="1.0471290297777065" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.21592714373037" y="0" width="0.31041587657805947" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.5263430203084" y="0" width="0.3093967437271852" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.8357397640356" y="0" width="0.16426023596444245" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.63932609079325" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="437.63932609079325" y="0" width="8.682020372022867" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="446.3213464628161" y="0" width="8.190775315717344" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="454.51212177853347" y="0" width="3.734074010928723" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.2461957894622" y="0" width="1.0473059195030587" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.29350170896527" y="0" width="0.30944900959267685" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.60295071855796" y="0" width="0.23276129727548373" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.83571201583345" y="0" width="0.16428798416662171" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -479,15 +479,15 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Makefile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C++
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Makefile
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1850,7 +1850,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="219.87266666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="219.89333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1875,10 +1875,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     maintainer
                                     <span class="gh">ranked 556 out of 204m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">31278</div>
+                                        <div class="value">31280</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 31278 stars</div>
+                                <div class="text">Maintaining a repository with 31280 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1987,7 +1987,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.24m out of 135m users</span>
+                                    <span class="gh">ranked 2.25m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
