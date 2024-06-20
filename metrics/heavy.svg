@@ -192,7 +192,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    40.9k added, 17.2k removed
+                                    120k added, 112k removed
                                 </div>
                             </section>
                             <section>
@@ -431,20 +431,20 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 13.9mb of code in 2198 edited files across 927 commits</small>
+                <small>estimation from 13.9mb of code in 2171 edited files across 915 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.4440623747408" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.4440623747408" y="0" width="8.584651710098456" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="443.02871408483924" y="0" width="8.098915955978352" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="451.12763004081756" y="0" width="7.090508847247874" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.2181388880655" y="0" width="1.0355604073252556" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.25369929539073" y="0" width="0.30698641948418015" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.56068571487486" y="0" width="0.27686878698167655" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.8375545018566" y="0" width="0.1624454981434248" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.4194475248741" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.4194475248741" y="0" width="8.592920235249071" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="443.01236776012314" y="0" width="8.106716632410684" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="451.1190843925338" y="0" width="7.097338250782693" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.21642264331655" y="0" width="1.036557833611389" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.2529804769279" y="0" width="0.3072821012446197" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.5602625781725" y="0" width="0.2771354601800645" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.83739803835255" y="0" width="0.162601961647404" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2001,7 +2001,7 @@ Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.06m out of 138m users</span>
+                                    <span class="gh">ranked 2.06m out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -2181,7 +2181,7 @@ Co-authored-by: Lars Müller &lt;34514239+appgurueu@users.noreply.github.com&gt;
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 54.1k out of 138m users</span>
+                                    <span class="gh">ranked 54.2k out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">182</div>
                                     </div>
