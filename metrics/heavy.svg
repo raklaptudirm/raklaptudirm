@@ -192,7 +192,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    69.5k added, 54.5k removed
+                                    186k added, 162k removed
                                 </div>
                             </section>
                             <section>
@@ -431,20 +431,20 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 31.9mb of code in 2676 edited files across 918 commits</small>
+                <small>estimation from 32.1mb of code in 2887 edited files across 992 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.80773008357806" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="306.80773008357806" y="0" width="127.88912342315766" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="434.6968535067357" y="0" width="15.481519989633782" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="450.17837349636943" y="0" width="8.270968069733744" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.4493415661032" y="0" width="1.0892036327932246" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.5385451988964" y="0" width="0.3111577752808867" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.8497029741773" y="0" width="0.10148656585419429" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.9511895400315" y="0" width="0.04881045996849084" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.97402396180246" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="304.97402396180246" y="0" width="129.87405955016237" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="434.84808351196483" y="0" width="15.388991167196194" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.237074679161" y="0" width="8.221534749463913" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.4586094286249" y="0" width="1.0826937597572062" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.54130318838213" y="0" width="0.30929807012542926" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.85060125850754" y="0" width="0.10088000833025536" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.9514812668378" y="0" width="0.04851873316217302" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
