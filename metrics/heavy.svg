@@ -186,13 +186,13 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    61 MB used
+                                    61.2 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    180k added, 165k removed
+                                    214k added, 195k removed
                                 </div>
                             </section>
                             <section>
@@ -1863,7 +1863,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 588 out of 217m repositories</span>
+                                    <span class="gh">ranked 588 out of 221m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">32076</div>
                                     </div>
@@ -1916,43 +1916,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#B2A8FF" stroke-linejoin="round">
-                                                <path d="M30 51H16.543v-2.998h-4v2.976l-5.537.016a2 2 0 01-2.006-2v-8.032a2 2 0 01.75-1.562l9.261-7.406 5.984 5.143m29.992 3.864v10h-6v-3h-5v3h-6m-.987-33c.133-1.116.793-2.106 1.978-2.968.44-.32 5.776-3.664 16.01-10.032v36"/>
-                                                <path d="M19 34.994v-8.982m16 0V49a2 2 0 01-2 2h-8.987l.011-6.957"/>
-                                            </g>
-                                            <path stroke="#B2A8FF" d="M40 38h5M40 34h5"/>
-                                            <path stroke="#7D6CFF" d="M25 30h5M25 34h5M25 26h5"/>
-                                            <path d="M35.012 22.003H9.855a4.843 4.843 0 010-9.686h1.479c1.473-4.268 4.277-6.674 8.41-7.219 6.493-.856 9.767 4.27 10.396 5.9.734-.83 2.137-2.208 4.194-1.964a4.394 4.394 0 011.685.533" stroke="#7D6CFF" stroke-linejoin="round"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix">Great</span>
-                                    worker
-                                    <div class="value-wrapper">
-                                        <div class="value">3</div>
-                                    </div>
-                                </div>
-                                <div class="text">Joined 3 organizations</div>
-                            </div>
-                        </div>
-                        <div class="achievement b largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1979,6 +1943,42 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </div>
                                 </div>
                                 <div class="text">Registered 4 years ago</div>
+                            </div>
+                        </div>
+                        <div class="achievement b largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <g stroke="#B2A8FF" stroke-linejoin="round">
+                                                <path d="M30 51H16.543v-2.998h-4v2.976l-5.537.016a2 2 0 01-2.006-2v-8.032a2 2 0 01.75-1.562l9.261-7.406 5.984 5.143m29.992 3.864v10h-6v-3h-5v3h-6m-.987-33c.133-1.116.793-2.106 1.978-2.968.44-.32 5.776-3.664 16.01-10.032v36"/>
+                                                <path d="M19 34.994v-8.982m16 0V49a2 2 0 01-2 2h-8.987l.011-6.957"/>
+                                            </g>
+                                            <path stroke="#B2A8FF" d="M40 38h5M40 34h5"/>
+                                            <path stroke="#7D6CFF" d="M25 30h5M25 34h5M25 26h5"/>
+                                            <path d="M35.012 22.003H9.855a4.843 4.843 0 010-9.686h1.479c1.473-4.268 4.277-6.674 8.41-7.219 6.493-.856 9.767 4.27 10.396 5.9.734-.83 2.137-2.208 4.194-1.964a4.394 4.394 0 011.685.533" stroke="#7D6CFF" stroke-linejoin="round"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix">Great</span>
+                                    worker
+                                    <div class="value-wrapper">
+                                        <div class="value">3</div>
+                                    </div>
+                                </div>
+                                <div class="text">Joined 3 organizations</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2285,7 +2285,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 270k out of 217m repositories</span>
+                                    <span class="gh">ranked 270k out of 221m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">48</div>
                                     </div>
