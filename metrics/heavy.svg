@@ -1810,7 +1810,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="230.4333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="230.423 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1833,12 +1833,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 584 out of 219m repositories</span>
+                                    <span class="gh">ranked 584 out of 222m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">32300</div>
+                                        <div class="value">32299</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 32300 stars</div>
+                                <div class="text">Maintaining a repository with 32299 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2021,7 +2021,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.05m out of 146m users</span>
+                                    <span class="gh">ranked 2.05m out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -2076,7 +2076,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 53.1k out of 146m users</span>
+                                    <span class="gh">ranked 53.1k out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">195</div>
                                     </div>
@@ -2255,7 +2255,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 276k out of 219m repositories</span>
+                                    <span class="gh">ranked 276k out of 222m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">47</div>
                                     </div>
