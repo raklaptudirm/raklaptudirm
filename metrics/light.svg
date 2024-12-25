@@ -84,7 +84,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4523 Commits
+                            4524 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -96,7 +96,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            21 Pull requests opened
+                            22 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -142,7 +142,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 405 repositories
+                            Starred 406 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -216,13 +216,13 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="2.894736842105263" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="2.894736842105263" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="2.894736842105263" y="0" width="1.4473684210526314" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="4.342105263157894" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="4.342105263157894" y="0" width="10.131578947368421" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="14.473684210526315" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="14.473684210526315" y="0" width="205.5263157894737" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="2.8758169934640523" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="2.8758169934640523" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="2.8758169934640523" y="0" width="1.4379084967320261" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="4.313725490196078" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="4.313725490196078" y="0" width="10.065359477124183" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="14.37908496732026" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="14.37908496732026" y="0" width="205.62091503267973" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -236,7 +236,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">142 <small>merged</small></span>
+                                <span class="no-wrap">143 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -270,11 +270,11 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.04212220162594" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="384.04212220162594" y="0" width="46.34960541576436" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="430.3917276173903" y="0" width="29.165419049104127" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.55714666649436" y="0" width="0.2892086078691713" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.84635527436353" y="0" width="0.15364472563639567" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.4747212958083" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.4747212958083" y="0" width="49.99510914337304" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.46983043918135" y="0" width="44.108726991680626" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.57855743086196" y="0" width="0.27522615162990216" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.8537835824919" y="0" width="0.14621641750810765" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,15 +285,15 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Go
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Go
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -369,7 +369,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.91666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.43333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -388,10 +388,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix">Great</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">405</div>
+                                        <div class="value">406</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 405 repositories</div>
+                                <div class="text">Starred 406 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -539,7 +539,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.13m out of 147m users</span>
+                                    <span class="gh">ranked 2.13m out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -594,7 +594,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 53.3k out of 147m users</span>
+                                    <span class="gh">ranked 53.3k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">203</div>
                                     </div>
@@ -612,7 +612,7 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="117.61306532663316 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="118.39195979899498 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -640,10 +640,10 @@ Maintainer of Javascript and Go repositories at @TheAlgorithms</div>
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">152</div>
+                                        <div class="value">153</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 152 pull requests</div>
+                                <div class="text">Opened 153 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
